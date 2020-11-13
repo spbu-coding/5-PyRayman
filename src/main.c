@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void other(){
-    printf("You are hucked stack \n");
+    printf("Не позорься, пожалуйста \n");
 }
 
 
@@ -18,10 +18,10 @@ void input(){
 
 int main(){
     input();
-    printf("%p", &other);
-    fflush(stdout);
+    
 
     return 0;
 }
 
 // \xa9\x11\x00\x00
+//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa@
