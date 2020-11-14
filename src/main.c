@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void other(){
-    printf("Не позорься, пожалуйста \n");
+    printf("Please don't disgrace \n");
 }
 
 
