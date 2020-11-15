@@ -18,7 +18,7 @@ void input(){
 
 int main(){
     input();
-    printf("Process Status: Ok \n")
+    printf("Process Status: Ok \n");
     
 
     return 0;
