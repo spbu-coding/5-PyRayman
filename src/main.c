@@ -18,10 +18,9 @@ void input(){
 
 int main(){
     input();
+    printf("Process Status: Ok \n")
     
 
     return 0;
 }
 
-// \xa9\x11\x00\x00
-//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa@
